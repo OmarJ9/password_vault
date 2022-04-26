@@ -1,16 +1,30 @@
-# pass_vault
+# 🔥 Password Vault
 
-A new Flutter project.
+An App To manage all your passwords and generate new ones. It is built with firebase backend.
 
-## Getting Started
+Star⭐ the repo if you like what you see😉.
 
-This project is a starting point for a Flutter application.
+## ✨ Features :
+- Auth with phone number.
+- Pin/BackUp Code.
+- Search Websites.
+- Website Categories.
+- Beautiful UI.
+- Beautiful Animation.
+- Dark/Light Mode.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="assets/screenshots/screenshot1.png" width="300"> <img src="assets/screenshots/screenshot2.png" width="300"> <img src="assets/screenshots/screenshot3.png" width="300"> <img src="assets/screenshots/screenshot4.png" width="300"> <img src="assets/screenshots/screenshot5.png" width="300"> <img src="assets/screenshots/screenshot6.png" width="300"> <img src="assets/screenshots/screenshot7.png" width="300"> <img src="assets/screenshots/screenshot8.png" width="300"> <img src="assets/screenshots/screenshotnine.png" width="300">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+**=> Icons made by Freepik from [FlatIcons](https://www.flaticon.com/authors/ruslan-babkin)**
+
+**=> The UI is inspired from [Jerahmeel Madu](https://www.behance.net/gallery/125013381/PassPro-UI?tracking_source=search_projects%7Cpassword%20app%20ui)**
+
+
